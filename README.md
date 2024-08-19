@@ -4,3 +4,4 @@
   <img height="25" src="https://img.shields.io/github/stars/strawberryph?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
 
+https://lanyard.cnrad.dev/api/1121869581452050504
