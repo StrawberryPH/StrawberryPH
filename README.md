@@ -4,5 +4,5 @@
   <img height="25" src="https://img.shields.io/github/stars/strawberryph?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
 <p align="center">
-  <img height="45" src="https://lanyard.cnrad.dev/api/1121869581452050504" alt="Stars"/>
+  <img height="450" src="https://lanyard.cnrad.dev/api/1121869581452050504" alt="Stars"/>
 </p>
